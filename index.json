@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "cached_path",
+  "versions": [
+    {
+      "commit": "54c53d7ed5ff38743397d92ac8a1d77dea9a19ba",
+      "tag": "v1.8.10",
+      "parsed_at": "2026-11-07T21:41:40.748598+00:00"
+    }
+  ]
+}
