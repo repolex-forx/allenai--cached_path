@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/cached_path/commit/54c53d7ed5ff38743397d92ac8a1d77dea9a19ba",
       "git:hexsha": "54c53d7ed5ff38743397d92ac8a1d77dea9a19ba",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.8.10"
     },
     {
